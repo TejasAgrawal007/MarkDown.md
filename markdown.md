@@ -97,7 +97,7 @@ npm start
 | Name| Email|
 |-----| -----|
 |Tejas | tejasagrawal@gamil.com|
-|shambhavi| shambhavi@gaml.com|
+|milkybar| milkybar@gaml.com|
 
 
 <!-- Task list -->
