@@ -70,6 +70,7 @@ _This text_ is italic
 <!-- Images -->
 [Markdown Logo(https://tejasportfolio007.netlify.app/assets/img/tejasa.jpeg)]
 
+![tejas](https://github.com/TejasAgrawal007/MarkDown.md/assets/72118095/953c469f-3f7a-458b-8e44-55338c1e71ff)
 
 <!-- GitHub MarkDown -->
 
