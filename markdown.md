@@ -71,6 +71,7 @@ _This text_ is italic
 [Markdown Logo(https://tejasportfolio007.netlify.app/assets/img/tejasa.jpeg)]
 
 ![tejas](https://github.com/TejasAgrawal007/MarkDown.md/assets/72118095/953c469f-3f7a-458b-8e44-55338c1e71ff)
+![tejas1 (2)](https://github.com/TejasAgrawal007/MarkDown.md/assets/72118095/85038bf9-5c44-44f3-a9a3-edc277929e75)
 
 <!-- GitHub MarkDown -->
 
